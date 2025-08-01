@@ -1,0 +1,42 @@
+
+C:\Users\achuw\appdata\local\Programs\Python\Python313
+
+
+//////////////////////////////////////////////////////////////////////////////
+Financial Library
+//////////////////////////////////////////////////////////////////////////////
+
+Finanace Libraya - 
+
+pip install PyAlgoTrade
+
+PyAlgoTrade has 6 main components:
+
+https://gbeced.github.io/pyalgotrade/docs/v0.20/html/tutorial.html
+
+Strategies
+Feeds
+Brokers
+DataSeries
+Technicals
+Optimizer
+
+//////////////////////////////////////////////////////////////////////////////
+Getting financial Data
+//////////////////////////////////////////////////////////////////////////////
+pip install yfinance
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////////////
+Plotting Graphs
+//////////////////////////////////////////////////////////////////////////////
+Matplotlib:
+While often considered foundational, Matplotlib provides extensive control and customization options for creating 
+highly detailed and publication-quality static, animated, and interactive plots. Its flexibility 
+allows for advanced features like multi-panel plots, custom annotations, and complex figure layouts.
+
+Plotly:
+This library is ideal for creating interactive, web-based visualizations. Plotly enables features like zooming, panning, hovering for data details, and exporting plots as HTML files for easy sharing. It supports a wide range of chart types, including 3D plots and dashboards.
